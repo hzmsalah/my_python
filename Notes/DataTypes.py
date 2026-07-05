@@ -1,7 +1,7 @@
 # Use type(variable) to figure out or double check a type.
 
 '''
-#Dictionary 
+#Dictionary {}
 #Basically an object 
 #### Very important for Web APIs, since you get & post data in objects.
 
